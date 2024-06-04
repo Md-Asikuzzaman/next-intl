@@ -1,5 +1,38 @@
 {
-  "Index": {
-    "title": "Hello world!"
+  "HomePage": {
+    "title": "Let's read the quote!",
+    "description": "The company itself is a very successful company. They are never obliged to undertake the tasks of the architect as if they were harsher, but whoever is greater in desire, they do not know that they are by right softened by the finder of pleasures; Everyone himself, anyone who is corrupted by greed, but we can have other pleasures and troubles, and the like should be repelled so that he is free. The whole, some of those who are praised, who is chosen by flattery, are bound by the greater fall from being rejected at the time, and others, like this, because the expedient of repudiating a great deal of things! Let it be the fault of those who never praised him, the pains, the sufferings, the corruption of their refusal to accept their choice of trouble. Do they provide for the incidence of pain to be assumed by pains as it were, and not to be repelled by others blinded by labor?"
+  },
+
+  "AboutPage": {
+    "title": "Let's know about us!",
+    "description": "We may have other pleasures and pains, and such should be given up so that he may be free. In sum, some who are admired, who are chosen by flattery, are bound by a greater fall from being rejected at that time, and others, like this, because many things are apt to be rejected! It is the fault of those who never appreciated it, the pain, the corruption of their refusal to accept their chosen suffering."
+  },
+
+  "CopyRight": {
+    "title": "© All Rights Reserved by Asik 🚀"
+  },
+
+  "ContactInfo": {
+    "name": {
+      "name-title": "Name",
+      "name-value": "Md Asik"
+    },
+    "address": {
+      "address-title": "Address",
+      "address-value": "Mirpur, Dhaka"
+    },
+    "location": {
+      "location-title": "Location",
+      "location-value": "Mirpur-1, Sony Square, Dhaka"
+    },
+    "phone": {
+      "phone-title": "Phone",
+      "phone-value": "+8801995-580669"
+    },
+    "birth-date": {
+      "birth-date-title": "Birth Date",
+      "birth-date-value": "12/02/2001"
+    }
   }
 }

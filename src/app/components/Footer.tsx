@@ -1,7 +1,10 @@
+import { useTranslations } from "next-intl";
 import React from "react";
 
 const Footer = () => {
-  return <div className="text-center py-4">&copy; All Rights Reserved by Asik 🚀</div>;
+  const t = useTranslations("CopyRight");
+
+  return <div className="text-center py-4">{t("title")}</div>;
 };
 
 export default Footer;
